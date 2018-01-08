@@ -1,5 +1,4 @@
-// Unlock the Red Talon Sword in The Final Reich
-// Navigate to the Sword, toggle the Script with X
+// This Script is solely for informational purposes. Please do not use it online.
 
 int toggle;
 int Wait = 500;
