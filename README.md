@@ -6,7 +6,6 @@ Collection of my CronusMax GPC Scripts. All Scripts are solely for information p
 
 For use in [Minigames](https://redd.it/86rocu) and [Action Sequences (Spoilers)](https://youtu.be/zEkzdZGmGSY?t=1767) that require rapid pressing of the activate button in A Way Out.
 
-- Choose and Download the Script for your console
 - Change the file extension to `.gpc` and program it to your CronusMax device
 - Toggle the Script by holding your console's default layout activate button whenever necessary
 
@@ -16,7 +15,6 @@ For use in the [Prop Hunt Pre-Match Countdown Mini-Game](https://youtu.be/u_Er3C
 
 This Script is solely for informational purposes. Please do not use it online.
 
-- Choose and Download the Script for your console
 - Change the file extension to `.gpc` and program it to your CronusMax device
 - Be on the Seekers Team in Prop Hunt
 - Toggle the Script by holding your console's default layout Weapon Swap button during the Mini-Game
@@ -27,7 +25,6 @@ For use with the ['Duelist' Basic Training + Semi-Auto Pistol properties](https:
 
 This Script is solely for informational purposes. Please do not use it online.
 
-- Choose and Download the Script for your console
 - Change the file extension to `.gpc` and program it to your CronusMax device
 - Equip the 'Duelist' Basic Training and a Semi-Auto Pistol (1911 or P-08)
 - Toggle the Script by holding your console's default layout Fire button
@@ -38,7 +35,6 @@ For use with the [Red Talon XP Glitch](https://www.se7ensins.com/forums/threads/
 
 This Script is solely for informational purposes. Please do not use it online.
 
-- Choose and Download the Script for your console
 - Change the file extension to `.gpc` and program it to your CronusMax device
 - Unlock the Red Talon Sword in The Final Reich
 - Toggle the Script by pressing your console's activate button
